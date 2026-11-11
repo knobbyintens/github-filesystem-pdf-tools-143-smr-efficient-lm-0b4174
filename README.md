@@ -1,2 +1,5 @@
-# github-filesystem-pdf-tools-143-smr-efficient-lm-0b4174
-Code repository: Reference implementation for sparse mixture routing.
+# smr-efficient-lm
+
+Reference implementation for sparse mixture routing.
+
+Training scripts and configs for the NeurIPS 2025 paper.
